@@ -1,0 +1,14 @@
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\bin\Debug\net8.0\BTVN2.exe
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\bin\Debug\net8.0\BTVN2.deps.json
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\bin\Debug\net8.0\BTVN2.runtimeconfig.json
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\bin\Debug\net8.0\BTVN2.dll
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\bin\Debug\net8.0\BTVN2.pdb
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\BTVN2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\BTVN2.AssemblyInfoInputs.cache
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\BTVN2.AssemblyInfo.cs
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\BTVN2.csproj.CoreCompileInputs.cache
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\BTVN2.dll
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\refint\BTVN2.dll
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\BTVN2.pdb
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\BTVN2.genruntimeconfig.cache
+D:\GitHub_Private_C#_Unity_2025\BTVN2\BTVN2\obj\Debug\net8.0\ref\BTVN2.dll
