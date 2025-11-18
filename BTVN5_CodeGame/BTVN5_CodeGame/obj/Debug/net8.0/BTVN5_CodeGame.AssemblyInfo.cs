@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTVN5_CodeGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80c69bd712ca1ecbf04094d316c74395c9e57c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63b8f2c86b12a0d9669ca2ee45c43fd620eebb5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTVN5_CodeGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTVN5_CodeGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
