@@ -1,0 +1,15 @@
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\bin\Debug\net8.0\BTVN5_CodeGame.exe
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\bin\Debug\net8.0\BTVN5_CodeGame.deps.json
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\bin\Debug\net8.0\BTVN5_CodeGame.runtimeconfig.json
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\bin\Debug\net8.0\BTVN5_CodeGame.dll
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\bin\Debug\net8.0\BTVN5_CodeGame.pdb
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\BTVN5_CodeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\BTVN5_CodeGame.AssemblyInfoInputs.cache
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\BTVN5_CodeGame.AssemblyInfo.cs
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\BTVN5_CodeGame.csproj.CoreCompileInputs.cache
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\BTVN5_CodeGame.sourcelink.json
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\BTVN5_CodeGame.dll
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\refint\BTVN5_CodeGame.dll
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\BTVN5_CodeGame.pdb
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\BTVN5_CodeGame.genruntimeconfig.cache
+D:\GitHub_Private_C#_Unity_2025\BTVN5_CodeGame\BTVN5_CodeGame\obj\Debug\net8.0\ref\BTVN5_CodeGame.dll
