@@ -1,0 +1,15 @@
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\bin\Debug\net8.0\TEST.exe
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\bin\Debug\net8.0\TEST.deps.json
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\bin\Debug\net8.0\TEST.runtimeconfig.json
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\bin\Debug\net8.0\TEST.dll
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\bin\Debug\net8.0\TEST.pdb
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\TEST.AssemblyInfoInputs.cache
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\TEST.AssemblyInfo.cs
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\TEST.csproj.CoreCompileInputs.cache
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\TEST.sourcelink.json
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\TEST.dll
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\refint\TEST.dll
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\TEST.pdb
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\TEST.genruntimeconfig.cache
+D:\GitHub_Private_C#_Unity_2025\TEST\TEST\obj\Debug\net8.0\ref\TEST.dll
