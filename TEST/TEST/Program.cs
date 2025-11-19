@@ -230,14 +230,15 @@ public class Program
                         p.PerformAttack(enemy);
                         if (!enemy.IsAlive())
                         {
-                            Console.WriteLine($"{enemy.Name1} đã bị tiêu diệt! {p.Name1}");
-                            if (!p.IsAlive())
-                            {
-                                Console.WriteLine($"{p.Name1} đã bị tiêu diệt!");
-                            }
+                            Console.WriteLine($"{enemy.Name1} đã bị tiêu diệt!");
+                            listEnemies.RemoveAt(i);
                         }
                     }
                     if (enemy.IsAlive()) enemy.PerformAttack(p);
+                    if (!p.IsAlive())
+                    {
+                        Console.WriteLine($"{p.Name1} đã bị tiêu diệt!");
+                    }
                 }
             } while (p.IsAlive() && listEnemies.Count != 0 );
 
