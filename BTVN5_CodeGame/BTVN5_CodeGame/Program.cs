@@ -179,6 +179,7 @@ namespace MyGame
                     hero.bidanh(monster);
                     if (monster.mau <= 0)
                         monsters.RemoveAt(i);
+                    if (hero.mau <= 0) break;
                 }
                 
                 
