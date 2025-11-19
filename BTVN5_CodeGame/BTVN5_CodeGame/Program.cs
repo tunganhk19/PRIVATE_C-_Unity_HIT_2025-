@@ -141,8 +141,8 @@ namespace MyGame
             List<enemy> monsters = new List<enemy>();
             monsters.Add(new enemy(new ViTri(0,0),3000,50,1,1));
             monsters.Add(new enemy(new ViTri(0,9),3000,50,1,1));
-            // monsters.Add(new enemy(new ViTri(9,0),2000,50,1,1));
-            // monsters.Add(new enemy(new ViTri(9,9),2000,50,1,1));
+            monsters.Add(new enemy(new ViTri(9,0),2000,50,1,1));
+            monsters.Add(new enemy(new ViTri(9,9),2000,50,1,1));
             int maxHPHero = hero.mau;
             int maxHPMonster = monsters[0].mau;
             int turn = 0;
@@ -213,12 +213,14 @@ namespace MyGame
                     }
                 }
                 Console.WriteLine();
-            } while (hero.mau!=0 && monsters.Count>0);
+            } while (hero.mau>0 && monsters.Count>0);
             if (hero.mau == 0)
             {
                 Console.WriteLine("\n|***************************|");
                 Console.WriteLine("\n|*                         *|");
+                Console.WriteLine("\n|*                         *|");
                 Console.WriteLine("\n|*        GAME OVER        *|");
+                Console.WriteLine("\n|*                         *|");
                 Console.WriteLine("\n|*                         *|");
                 Console.WriteLine("\n|***************************|");
             }
@@ -226,7 +228,9 @@ namespace MyGame
             {
                 Console.WriteLine("\n|***************************|");
                 Console.WriteLine("\n|*                         *|");
+                Console.WriteLine("\n|*                         *|");
                 Console.WriteLine("\n|*         WINNER!         *|");
+                Console.WriteLine("\n|*                         *|");
                 Console.WriteLine("\n|*                         *|");
                 Console.WriteLine("\n|***************************|");
             }
